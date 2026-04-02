@@ -1,0 +1,11 @@
+https://github.com/pblalves29-hue/Aula-02-04-2026
+
+git clone https://github.com/pblalves29-hue/Aula-02-04-2026
+
+git status
+
+git add .
+
+git commit -m "alterando o arquivo texto
+
+git push
